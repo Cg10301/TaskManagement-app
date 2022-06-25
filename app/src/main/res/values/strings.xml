@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task Management</string>
+    <string name="textview">TextView</string>
+    <string name="task_info">Task_Info</string>
+    <string name="danh_s_ch_task">Danh Sách task</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+</resources>
